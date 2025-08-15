@@ -33,4 +33,4 @@ Ejemplos:
 
 Un robot que aprende a caminar evitando obstáculos.
 
-Un programa que juega ajedrez y mejora con cada partida
+Un programa que juega ajedrez y mejora con cada partida.
