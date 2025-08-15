@@ -1,0 +1,7 @@
+Definición de Inteligencia Artificial (IA)
+
+La Inteligencia Artificial (IA) es una rama de la informática que busca desarrollar sistemas capaces de realizar tareas que normalmente requieren de la inteligencia humana. Esto incluye actividades como el reconocimiento de voz, la comprensión del lenguaje natural, la resolución de problemas, la toma de decisiones y el aprendizaje a partir de datos. La IA combina algoritmos, modelos matemáticos y grandes volúmenes de información para imitar, mejorar o complementar las capacidades cognitivas humanas. Su objetivo no es únicamente automatizar procesos, sino también permitir que las máquinas perciban su entorno, razonen sobre él y actúen de forma autónoma o asistida.
+
+Definición de Machine Learning (ML)
+
+El Machine Learning (ML), o aprendizaje automático, es una subdisciplina de la inteligencia artificial que se centra en el desarrollo de algoritmos y modelos capaces de aprender a partir de datos sin necesidad de ser programados de manera explícita para cada tarea. En lugar de seguir instrucciones fijas, los sistemas de ML identifican patrones y relaciones en la información, lo que les permite mejorar su rendimiento con la experiencia. Existen diferentes enfoques dentro del aprendizaje automático, como el aprendizaje supervisado, no supervisado y por refuerzo, cada uno orientado a resolver distintos tipos de problemas.
